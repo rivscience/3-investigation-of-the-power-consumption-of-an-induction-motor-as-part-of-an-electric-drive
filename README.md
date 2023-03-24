@@ -1,2 +1,1 @@
-# RESEARCH-OF-ENERGY-CONSUMPTION-OF-AN-ASYNCHRONOUS-MOTOR-AS-A-PART-OF-AN-ELECTRIC-DRIVE-INSTALLATION
-RESEARCH OF ENERGY CONSUMPTION OF AN ASYNCHRONOUS MOTOR AS A PART OF AN ELECTRIC DRIVE INSTALLATION
+Имитационное моделирование было проведено в программной среде MATLAB/SIMULINK. В качестве первой имитационной модели была смоделирована скалярная система управления с законом управления U⁄f=const и скалярным ШИМ модулированием , в качестве второй имитационной модели была смоделирована векторная система управления с векторной ШИМ модуляцией.
